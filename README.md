@@ -55,7 +55,7 @@ Carcinogenicity prediction under a medallion data architecture, with scaffold sp
 | Domain | Tools |
 |---|---|
 | Embedded | STM32CubeIDE, HAL, C, DMA |
-| Estimation & control | EKF, PI/PID, system identification |
+| Estimation & control | Kalman filtering, PI/PID, system identification |
 | ML / Data | Python, scikit-learn, PyTorch, pandas, PyQt6, Plotly |
 | MLOps | MLflow, Delta Lake, Databricks, GitHub Actions |
 | Instrumentation | Oscilloscope, logic analyzer, serial telemetry |
