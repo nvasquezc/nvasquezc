@@ -30,8 +30,6 @@ receive it.
 
 ## Work
 
-## Work
-
 **[dc-motor-fault-detection](https://github.com/nvasquezc/dc-motor-fault-detection)** · *in progress*
 
 Closed-loop testbed on STM32F407VG producing a reproducible fault dataset with physically quantified severity, plus comparative classifier evaluation. The contribution is the system and its instrumentation: fault injection is parameterized in physical units, not categorical labels.
