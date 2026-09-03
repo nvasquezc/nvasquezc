@@ -30,23 +30,24 @@ receive it.
 
 ## Work
 
-**dc-motor-fault-detection** · *in progress*
-Closed-loop testbed on STM32F407VG producing a reproducible fault dataset
-with physically quantified severity, plus comparative classifier
-evaluation. The contribution is the system and its instrumentation: fault
-injection is parameterized in physical units, not categorical labels.
+## Work
+
+**[dc-motor-fault-detection](https://github.com/nvasquezc/dc-motor-fault-detection)** · *in progress*
+
+Closed-loop testbed on STM32F407VG producing a reproducible fault dataset with physically quantified severity, plus comparative classifier evaluation. The contribution is the system and its instrumentation: fault injection is parameterized in physical units, not categorical labels.
+
 `STM32 HAL · EKF · PI control · DMA telemetry · PyQt6 · scikit-learn`
 
 **firewatch-colombia**
-Satellite wildfire monitoring pipeline: NASA FIRMS and GOES-19 ingestion,
-DBSCAN clustering of active fire detections, LLM-generated situation
-bulletins, served through a Dash dashboard.
+
+Satellite wildfire monitoring pipeline: NASA FIRMS and GOES-19 ingestion, DBSCAN clustering of active fire detections, LLM-generated situation bulletins, served through a Dash dashboard.
+
 `Python · Dash · scikit-learn`
 
 **carcino-qsar** · *private, research group*
-Carcinogenicity prediction under a medallion data architecture, with
-scaffold splits, class-imbalance handling, SHAP attribution, and OECD
-validation principles.
+
+Carcinogenicity prediction under a medallion data architecture, with scaffold splits, class-imbalance handling, SHAP attribution, and OECD validation principles.
+
 `RDKit · scikit-learn · Plotly · uv`
 
 ---
