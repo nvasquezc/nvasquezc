@@ -34,7 +34,7 @@ receive it.
 
 Closed-loop testbed on STM32F407VG producing a reproducible fault dataset with physically quantified severity, plus comparative classifier evaluation. The contribution is the system and its instrumentation: fault injection is parameterized in physical units, not categorical labels.
 
-`STM32 HAL · EKF · PI control · DMA telemetry · PyQt6 · scikit-learn`
+`STM32 HAL · Kalman filter · PI control · DMA telemetry · PyQt6 · scikit-learn · Deep Learning`
 
 **firewatch-colombia**
 
