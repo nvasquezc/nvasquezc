@@ -1,7 +1,7 @@
 # Néstor O. Vásquez C.
 
-**Electronic engineer · MSc candidate in Data Analytics**
-Embedded estimation, health-aware control, and applied machine learning.
+**Electronic engineer · MSc candidate in Data Analytics**  
+Embedded estimation, health-aware control, and applied machine learning.  
 Bogotá, Colombia · Jitter Ingeniería SAS
 
 [ORCID](https://orcid.org/0009-0003-6483-790X) · [LinkedIn](https://www.linkedin.com/in/nestor-vasquez-castro) · nvasquezc@ucentral.edu.co
