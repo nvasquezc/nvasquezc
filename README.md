@@ -4,7 +4,7 @@
 Embedded estimation, health-aware control, and applied machine learning.
 Bogotá, Colombia · Jitter Ingeniería SAS
 
-[ORCID](https://orcid.org/0009-0003-6483-790X) · [LinkedIn](https://www.linkedin.com/in/nestor-vasquez-castro) · nestorvc1985@gmail.com
+[ORCID](https://orcid.org/0009-0003-6483-790X) · [LinkedIn](https://www.linkedin.com/in/nestor-vasquez-castro) · nvasquezc@ucentral.edu.co
 
 ---
 
